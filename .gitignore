@@ -1,0 +1,27 @@
+# Ignore everything
+
+# But not these files...
+
+# base files
+x64
+Debug
+*.sln
+*.suo
+*.pyc
+*.db
+
+# un-ignore .h and .cpp
+rbRoll/*
+!rbRoll/*.h
+!rbRoll/*.cpp
+!rbRoll/*.cu
+
+# un-ignore .py
+rbRollBlockout/*
+!rbRollBlockout/*.py
+
+# un-ignore .h and .cpp
+rbRollCUDAOptimized/*
+!rbRollCUDAOptimized/*.h
+!rbRollCUDAOptimized/*.cpp
+!rbRollCUDAOptimized/*.cu
