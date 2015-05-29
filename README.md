@@ -1,14 +1,14 @@
 
 
 <div align="center">
-	<a href="https://vimeo.com/65326506#t=1m42s" target="_blank"><img src="www.kiiia.com/rb_roll/repo_images/rb_roll_1.jpg"></a>
+	<a href="https://vimeo.com/65326506#t=1m42s" target="_blank"><img src="http://www.kiiia.com/rb_roll/repo_images/rb_roll_1.jpg"></a>
 </div>
 -----------------------
 <div align="left">
-	<a href="www.kiiia.com/rb_roll/repo_images/rb_roll_1.jpg" target="_blank"><img width="80" height="80" src="www.kiiia.com/rb_roll/repo_images/rb_roll_1_thumb.jpg"></a>
-	<a href="www.kiiia.com/rb_roll/repo_images/rb_roll_2.jpg" target="_blank"><img width="80" height="80" src="www.kiiia.com/rb_roll/repo_images/rb_roll_2_thumb.jpg"></a>
-	<a href="www.kiiia.com/rb_roll/repo_images/rb_roll_3.jpg" target="_blank"><img width="80" height="80" src="www.kiiia.com/rb_roll/repo_images/rb_roll_3_thumb.jpg"></a>
-	<a href="www.kiiia.com/rb_roll/repo_images/rb_roll_4.jpg" target="_blank"><img width="80" height="80" src="www.kiiia.com/rb_roll/repo_images/rb_roll_4_thumb.jpg"></a>
+	<a href="http://www.kiiia.com/rb_roll/repo_images/rb_roll_1.jpg" target="_blank"><img width="80" height="80" src="http://www.kiiia.com/rb_roll/repo_images/rb_roll_1_thumb.jpg"></a>
+	<a href="http://www.kiiia.com/rb_roll/repo_images/rb_roll_2.jpg" target="_blank"><img width="80" height="80" src="http://www.kiiia.com/rb_roll/repo_images/rb_roll_2_thumb.jpg"></a>
+	<a href="http://www.kiiia.com/rb_roll/repo_images/rb_roll_3.jpg" target="_blank"><img width="80" height="80" src="http://www.kiiia.com/rb_roll/repo_images/rb_roll_3_thumb.jpg"></a>
+	<a href="http://www.kiiia.com/rb_roll/repo_images/rb_roll_4.jpg" target="_blank"><img width="80" height="80" src="http://www.kiiia.com/rb_roll/repo_images/rb_roll_4_thumb.jpg"></a>
 </div>
 -----------------------
 
