@@ -33,7 +33,7 @@ How to?
 Python setup code is within a file called test_fixture.py in the temp folder.
 You can paste its content into the script editor and it should set up the basic connections,
 in case the rbRoll plugin is correctly loaded.
-An additional example rig can be found in the temp folder.
+An additional example rig can be found in the temp folder
 
 
 -----------------------
